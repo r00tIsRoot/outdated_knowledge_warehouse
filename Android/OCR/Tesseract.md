@@ -104,6 +104,9 @@
   와 같이 사용
   </br></br>
   
+## 예시프로젝트
+- [링크](https://github.com/r00tIsRoot/TesseractExample)
+  
 ## 참고자료
 - https://github.com/tesseract-ocr/tesseract
 - https://github.com/tesseract-ocr/tessdata
